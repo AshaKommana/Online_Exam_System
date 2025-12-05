@@ -49,11 +49,15 @@ OOP Concepts |	Classes & Objects
 ## 📂 Project Structure
 
 OnlineExamSystem
+
 │
+
 ├── src
 
-│   └── OnlineExamSystem.java   → Main Java file
+│   └── Main.java   → Main Java file
+
 │
+
 └── README.md
 
 ##  How to Run
